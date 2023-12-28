@@ -8,7 +8,7 @@ import { getAuth } from "firebase/auth";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyCDAbBcdflv35Tcs_x1N5EUvFo7N6FfXH8",
-  authDomain: "https://otp-u05f.onrender.com",
+  authDomain: "cars-508b0.firebaseapp.com",
   projectId: "cars-508b0",
   storageBucket: "cars-508b0.appspot.com",
   messagingSenderId: "945270534480",
